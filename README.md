@@ -1,2 +1,4 @@
 # Informatik_2
- Assignments of the Informatik 2 at the TU Graz
+This repository contains my solution for the course Informatik 2 at the TU Graz at 2018.
+
+
