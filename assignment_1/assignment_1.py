@@ -1,6 +1,6 @@
 ######################################################################
 # Author: Thomas Gruber
-# MatNr: 1625378
+
 # Description: The main file Assignment_1
 # Comments: Enter the inputfiles and the magic number!
 ######################################################################
