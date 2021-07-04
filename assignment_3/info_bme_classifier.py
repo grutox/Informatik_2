@@ -1,10 +1,10 @@
 ###################################################################### 
 # Author: Thomas Gruber 
-# MatNr: 01625378
+
 #Author: Sophie Zentner
-# MatNr: 01610730
+
 #Author: Christina Ebner
-# MatNr: 01431092
+
 # Description: The main file 
 # Comments: The handwritten numbers are classified with the nearest-neighbor-
 #           algorithm 
